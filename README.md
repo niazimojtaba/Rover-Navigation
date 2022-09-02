@@ -1,4 +1,4 @@
-# lucid
+# Rover Navigation
 
 I hame some assumtions to solve this problem as:
 * I used the x and y boundary to raise exception not more, but update the next position too.
